@@ -11,5 +11,5 @@ This model is also not an exact replica of the one described in the paper, but i
 The U-Net model is derived from: https://arxiv.org/abs/1505.04597
 It is a close replica of the one described in the paper, with added cropping and zero padding layers to account for an odd dimension in the input shape. 
 
-As the results show, further data preprocessing is required to obtain optimal training accuracy and prediction results. Otherwise, the model itself works as intended. 
+As the results show, further data preprocessing is required to obtain optimal training accuracy and prediction results. Otherwise, the model itself works as intended, showing promising results in the task of image segmentation. 
 
